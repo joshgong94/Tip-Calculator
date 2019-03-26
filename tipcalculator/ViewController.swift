@@ -26,7 +26,7 @@ class ViewController: UIViewController {
         
         // Code that runs when the user taps on the screen
         print("Hello" )
-        
+        print("Testing")
         // Click anywhere on screen other than box to get rid of keyboard
         view.endEditing(true)
     }
